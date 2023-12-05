@@ -1,0 +1,7 @@
+imread
+opencv-contrib-python
+argparse
+numpy
+imutils
+scikit-image
+matplotlib
